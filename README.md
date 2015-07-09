@@ -136,6 +136,7 @@ before leaving
  * download entertainment (movies)
  * make sure people sharing your internet connection know how to reset it if it fails
  * email autoresponder
+ * advise consulate abroad of your presence in foreign country
 
 working gear
 
