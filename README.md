@@ -138,6 +138,7 @@ before leaving
  * make sure people sharing your internet connection know how to reset it if it fails
  * email autoresponder
  * advise consulate abroad of your presence in foreign country
+ * photocopy of passport
 
 working gear
 
@@ -145,3 +146,7 @@ working gear
  * rainboots
  * work pants or shorts
  * old sneakers
+ * computer
+ * speakers
+ * power adaptor
+
