@@ -107,6 +107,7 @@ health
  * serviettes sanitaires
  * probiotique voyage
  * charbon
+ * mosquito net, cord, and metal "S" and "?" pieces to hang it up
 
 documents
 
