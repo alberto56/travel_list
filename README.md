@@ -63,12 +63,14 @@ kids
 
  * toys
  * beach toys
+ * toys for adults
  * books
 
 medical
 
  * ibuprofen or pain medicine
  * pain medicine for kids
+ * covid masks
 
 camping
 
@@ -149,4 +151,8 @@ working gear
  * computer
  * speakers
  * power adaptor
+ 
+car
+
+ * orange strap to put, say, a canoe on the car
 
