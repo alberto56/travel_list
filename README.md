@@ -3,6 +3,11 @@ Travel List
 
 A list of things to bring on a trip
 
+Covid
+
+ * Covid vaccination proof
+ * masks
+
 Handbag
 
  * camera
